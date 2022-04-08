@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameJamAsteroids", "GameJamAsteroids.vcxproj", "{615422FB-EA6A-46F8-B16E-DBC0D81D126D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Debug|x64.ActiveCfg = Debug|x64
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Debug|x64.Build.0 = Debug|x64
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Debug|x86.ActiveCfg = Debug|Win32
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Debug|x86.Build.0 = Debug|Win32
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Release|x64.ActiveCfg = Release|x64
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Release|x64.Build.0 = Release|x64
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Release|x86.ActiveCfg = Release|Win32
+		{615422FB-EA6A-46F8-B16E-DBC0D81D126D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C55BE5-7ABA-4BF1-BC83-4162A07C40CF}
+	EndGlobalSection
+EndGlobal
